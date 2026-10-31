@@ -16,7 +16,6 @@
 | 能力路由器 | Skill / CLI；按任务选择适用能力 | [ruhang365-router](https://github.com/ruhang365/ruhang365-router) |
 | Codex 场景导航器 | 使用指南网站；从具体问题查找操作与完成标准 | [ruhang365-codex-scenario-guide](https://github.com/fzy2012/ruhang365-codex-scenario-guide) |
 | AI 全流程项目共创与交付框架 | 研发预览；项目需求、实施与交付方法，正式安装尚未开放 | [ruhang365-ai-project-delivery](https://github.com/fzy2012/ruhang365-ai-project-delivery) |
-| 个人工作台生成器 | Skill；生成个人工作台 | [ruhang-lab-personal-dashboard-builder](https://github.com/fzy2012/ruhang-lab-personal-dashboard-builder) |
 | 中文去 AI 味写作 | 实验 Skill；中文表达诊断与改写 | [ruhang365-ai-writing-humanizer-skill](https://github.com/ruhang365/ruhang365-ai-writing-humanizer-skill) |
 | TalkPlay | 口播创作工作台与 Skill；保留原作者署名和许可证 | [ruhang365-talkplay](https://github.com/fzy2012/ruhang365-talkplay) |
 | AI 订阅后悔药 | Web 工具；AI 订阅相关项目 | [AI-Subscription-Assistant](https://github.com/ruhang365/AI-Subscription-Assistant) |
